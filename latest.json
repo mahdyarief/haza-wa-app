@@ -1,11 +1,11 @@
 {
-  "version": "1.5.3",
-  "notes": "Release v1.5.3",
-  "pub_date": "2026-03-16T05:21:55Z",
+  "version": "1.5.4",
+  "notes": "Release v1.5.4",
+  "pub_date": "2026-03-18T01:17:08Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/mahdyarief/haza-wa-app/releases/download/v1.5.3/HAZA-WA_1.5.3_x64-setup.exe.zip"
+      "url": "https://github.com/mahdyarief/haza-wa-app/releases/download/v1.5.4/HAZA-WA_1.5.4_x64-setup.exe.zip"
     }
   }
 }
